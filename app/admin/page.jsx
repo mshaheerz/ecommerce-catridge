@@ -1,5 +1,5 @@
 import { ProductTable } from './product-table'
-import { AddProductForm } from './add-product-form'
+import { AddProductForm } from './products/create/_components/add-product-form'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Overview } from './_components/overview'
 import { RecentOrdersTable } from './_components/recent-orders-table'

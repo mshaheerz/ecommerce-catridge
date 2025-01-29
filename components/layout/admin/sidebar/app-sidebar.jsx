@@ -122,27 +122,27 @@ export const data = {
   Items: [
     {
       name: "Dashboard",
-      url: "/dashboard",
+      url: "/admin",
       icon: LayoutDashboard,
     },
     {
       name: "Orders",
-      url: "#/orders",
+      url: "/admin/orders",
       icon: ShoppingCart,
     },
     {
       name: "Products",
-      url: "/products",
+      url: "/admin/products",
       icon: Package,
     },
     {
       name: "Categories",
-      url: "/categories",
+      url: "/admin/categories",
       icon: ListIcon,
     },
     {
       name: "Banners",
-      url: "/banners",
+      url: "/admin/banners",
       icon: ImageIcon,
     },
   ],

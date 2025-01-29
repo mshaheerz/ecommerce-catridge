@@ -33,7 +33,7 @@ export default function OrdersPage() {
     <div className="space-y-8">
       <div className="flex justify-between items-center">
         <h1 className="text-3xl font-bold">Orders</h1>
-        <Link href="/orders/create">
+        <Link href="/admin/orders/create">
           <Button>Create Order</Button>
         </Link>
       </div>
